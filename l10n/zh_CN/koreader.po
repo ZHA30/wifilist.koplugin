@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wifilist.koplugin\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Wi-Fi List"
+msgstr "Wi-Fi 列表"
+
+msgid "Adds a Wi-Fi list entry in the Network menu and reuses KOReader native Wi-Fi behavior."
+msgstr "在网络菜单中增加 Wi-Fi 列表入口，并复用 KOReader 原生 Wi-Fi 行为。"
+
+msgid "Scanning for networks..."
+msgstr "正在扫描可用 Wi-Fi..."
+
+msgid "Failed to scan Wi-Fi networks."
+msgstr "扫描 Wi-Fi 失败。"
+
+msgid "No Wi-Fi networks found."
+msgstr "未发现可用 Wi-Fi。"
+
+msgid "Failed to enable Wi-Fi."
+msgstr "开启 Wi-Fi 失败。"
+
+msgid "This device does not support Wi-Fi toggling in KOReader."
+msgstr "当前设备不支持在 KOReader 中切换 Wi-Fi。"
+
+msgid "Opened system Wi-Fi settings."
+msgstr "已打开系统 Wi-Fi 设置。"
+
+msgid "Wi-Fi list"
+msgstr "Wi-Fi 列表"
